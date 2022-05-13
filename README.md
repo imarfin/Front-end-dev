@@ -1,4 +1,4 @@
-# In this repo, I have my modren responsive website designs / front end practice projects.
+# In this repo, I'll keep my modren responsive website designs and front end practice projects.
 
 
 # i. Protfolio-1:
